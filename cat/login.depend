@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1735154235 source:c:\users\ghonim\onedrive\desktop\login\main.cpp
+	<iostream>
+	<fstream>
+
